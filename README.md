@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @sheilaschlickmann
+- 👀 I’m interested in learning new technologies
+- 🌱 I’m currently learning Java and Microservices
+- 📫 How to reach me: https://www.linkedin.com/in/sheilaschlickmann/
